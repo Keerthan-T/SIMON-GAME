@@ -18,8 +18,8 @@ body{
     background-color: white;
 }
 .uflash{
-    background-color: rgb(7, 97, 51) !important;
-    background-color: rgb(7, 97, 51);
+    background-color: white  !important;
+    background-color: white;
 }
 #blue{
     background-color: blue;
@@ -29,4 +29,5 @@ body{
 }
 #yellow{
     background-color: yellow;
+
 }
